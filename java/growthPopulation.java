@@ -1,5 +1,5 @@
 class Arge {
-    //Solution for "Growth in a Population"
+    //Solution for "Growth in a Population" 7 kyu
     //https://www.codewars.com/kata/growth-of-a-population/train/java
     public static int nbYear(int p0, double percent, int aug, int p) {
         int year = 0;
